@@ -1,16 +1,18 @@
-# bmi
+# BMI Calculator
 
-A new Flutter project.
+Looks simple application? It is! As the target was getting from managing the state with SetState and StatefulWidgets to handle the state using Cubit.
 
-## Getting Started
+#### This app is taking four inputs from the user:
+- Gender
+- Height
+- Age
+- Weight
 
-This project is a starting point for a Flutter application.
+<img src="assets/images/screenshots/main_screen.png" alt= “Main_Image”>
+<p style="font-size:15px;font-style:italic;">Image 1: Main Screen</p>
+#### The result is obtained using the following formula:
+- Weight / (Height / 100) ^ 2
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p style="font-size:17px">After pressing calculate you will be taken to a page displaying your BMI result, as shown in next image</p>
+<img src="assets/images/screenshots/result_screen.png" alt= “Result_Image”>
+<p style="font-size:15px;font-style:italic;">Image 2: Result Screen</p>
