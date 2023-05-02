@@ -11,6 +11,7 @@ Looks simple application? It is! As the target was getting from managing the sta
 <img src="assets/images/screenshots/main_screen.png" alt="Main Image">
 
 <p style="font-size:15px;font-style:italic;">Image 1: Main Screen</p>
+
 #### The result is obtained using the following formula:
 - Weight / (Height / 100) ^ 2
 
